@@ -1,0 +1,17 @@
+C:\Users\huynh\Desktop\PTUD Win\Timkiemlophocphan\Timkiemlophocphan\obj\Debug\Timkiemlophocphan.csproj.AssemblyReference.cache
+C:\Users\huynh\Desktop\PTUD Win\Timkiemlophocphan\Timkiemlophocphan\obj\Debug\Timkiemlophocphan.csproj.SuggestedBindingRedirects.cache
+C:\Users\huynh\Desktop\PTUD Win\Timkiemlophocphan\Timkiemlophocphan\obj\Debug\Timkiemlophocphan.Form1.resources
+C:\Users\huynh\Desktop\PTUD Win\Timkiemlophocphan\Timkiemlophocphan\obj\Debug\Timkiemlophocphan.Properties.Resources.resources
+C:\Users\huynh\Desktop\PTUD Win\Timkiemlophocphan\Timkiemlophocphan\obj\Debug\Timkiemlophocphan.csproj.GenerateResource.cache
+C:\Users\huynh\Desktop\PTUD Win\Timkiemlophocphan\Timkiemlophocphan\obj\Debug\Timkiemlophocphan.csproj.CoreCompileInputs.cache
+C:\Users\huynh\Desktop\PTUD Win\Timkiemlophocphan\Timkiemlophocphan\bin\Debug\Timkiemlophocphan.exe.config
+C:\Users\huynh\Desktop\PTUD Win\Timkiemlophocphan\Timkiemlophocphan\bin\Debug\Timkiemlophocphan.exe
+C:\Users\huynh\Desktop\PTUD Win\Timkiemlophocphan\Timkiemlophocphan\bin\Debug\Timkiemlophocphan.pdb
+C:\Users\huynh\Desktop\PTUD Win\Timkiemlophocphan\Timkiemlophocphan\obj\Debug\Timkiemlophocphan.exe
+C:\Users\huynh\Desktop\PTUD Win\Timkiemlophocphan\Timkiemlophocphan\obj\Debug\Timkiemlophocphan.pdb
+C:\Users\huynh\Desktop\PTUD Win\Timkiemlophocphan\Timkiemlophocphan\bin\Debug\System.Data.SqlClient.dll
+C:\Users\huynh\Desktop\PTUD Win\Timkiemlophocphan\Timkiemlophocphan\bin\Debug\System.Data.SqlClient.xml
+C:\Users\huynh\Desktop\PTUD Win\Timkiemlophocphan\Timkiemlophocphan\obj\Debug\Timkiemlophocphan.csproj.CopyComplete
+C:\Users\huynh\Desktop\PTUD Win\Timkiemlophocphan\Timkiemlophocphan\obj\Debug\Timkiemlophocphan.Form2.resources
+C:\Users\huynh\Desktop\PTUD Win\Timkiemlophocphan\Timkiemlophocphan\obj\Debug\Timkiemlophocphan.Form3.resources
+C:\Users\huynh\Desktop\PTUD Win\Timkiemlophocphan\Timkiemlophocphan\obj\Debug\Timkiemlophocphan.Form4.resources
